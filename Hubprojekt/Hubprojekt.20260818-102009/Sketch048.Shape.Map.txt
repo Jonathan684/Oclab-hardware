@@ -1,0 +1,41 @@
+BeginElementMap v1
+133 PostfixCount 3
+Edge
+Vertex
+;SKT
+
+MapCount 1
+
+ElementMap 1 133 2
+
+Edge
+
+ChildCount 0
+
+NameCount 9
+0
+;g22.3 0
+;g23.3 0
+;g24.3 0
+;g25.3 0
+;g28.3 0
+;g29.3 0
+;g30.3 0
+;g31.3 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 9
+0
+;g22v1.3 0
+;g22v2.3 0
+;g23v2.3 0
+;g24v2.3 0
+;g28v1.3 0
+;g28v2.3 0
+;g29v2.3 0
+;g30v2.3 0
+
+EndMap

@@ -1,0 +1,144 @@
+BeginElementMap v1
+152 PostfixCount 11
+Edge
+Face
+Vertex
+;:G;XTR;:H699:7,F
+;FAC;:H699:4,F
+;:G;XTR;:H699:7,E
+;:G0;XTR;:H699:8,F
+;:U;XTR;:H699:7,E
+;:U;XTR;:H699:7,V
+;SKT;:H699,E
+;SKT;:H699,V
+
+MapCount 1
+
+ElementMap 1 152 3
+
+Edge
+
+ChildCount 0
+
+NameCount 49
+0
+$#aa85.6 0
+$#aa86.6 0
+;g27.a 0
+$#aa98:1b.8.aa83 0
+$#aa87.6 0
+;g28.a 0
+$#aa98:1c.8.aa83 0
+$#aa88.6 0
+;g29.a 0
+$#aa98:1d.8.aa83 0
+;g30.a 0
+$#aa98:1e.8.aa83 0
+$#aa89.6 0
+$#aa8a.6 0
+;g31.a 0
+$#aa98:1f.8.aa83 0
+$#aa8b.6 0
+;g32.a 0
+$#aa98:20.8.aa83 0
+$#aa8c.6 0
+;g33.a 0
+$#aa98:21.8.aa83 0
+;g34.a 0
+$#aa98:22.8.aa83 0
+$#aa8d.6 0
+$#aa8e.6 0
+;g35.a 0
+$#aa98:23.8.aa83 0
+$#aa8f.6 0
+;g36.a 0
+$#aa98:24.8.aa83 0
+$#aa90.6 0
+;g37.a 0
+$#aa98:25.8.aa83 0
+;g38.a 0
+$#aa98:26.8.aa83 0
+$#aa91.6 0
+$#aa92.6 0
+;g40.a 0
+$#aa98:28.8.aa83 0
+$#aa93.6 0
+;g41.a 0
+$#aa98:29.8.aa83 0
+$#aa94.6 0
+;g42.a 0
+$#aa98:2a.8.aa83 0
+;g43.a 0
+$#aa98:2b.8.aa83 0
+
+Face
+
+ChildCount 0
+
+NameCount 25
+0
+$#aa83:1b.4 0
+$#aa83:1c.4 0
+$#aa83:1d.4 0
+$#aa83:1e.4 0
+$#aa83:1b.5 0
+$#aa96:1b.7.aa83 0
+$#aa83:1f.4 0
+$#aa83:20.4 0
+$#aa83:21.4 0
+$#aa83:22.4 0
+$#aa83:1f.5 0
+$#aa96:1f.7.aa83 0
+$#aa83:23.4 0
+$#aa83:24.4 0
+$#aa83:25.4 0
+$#aa83:26.4 0
+$#aa83:23.5 0
+$#aa96:23.7.aa83 0
+$#aa83:28.4 0
+$#aa83:29.4 0
+$#aa83:2a.4 0
+$#aa83:2b.4 0
+$#aa83:28.5 0
+$#aa96:28.7.aa83 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 33
+0
+;g27v1.b 0
+$#ab6e.9 0
+;g27v2.b 0
+$#ab6f.9 0
+;g28v2.b 0
+$#ab70.9 0
+;g29v2.b 0
+$#ab71.9 0
+;g31v1.b 0
+$#ab72.9 0
+;g31v2.b 0
+$#ab73.9 0
+;g32v2.b 0
+$#ab74.9 0
+;g33v2.b 0
+$#ab75.9 0
+;g35v1.b 0
+$#ab76.9 0
+;g35v2.b 0
+$#ab77.9 0
+;g36v2.b 0
+$#ab78.9 0
+;g37v2.b 0
+$#ab79.9 0
+;g40v1.b 0
+$#ab7a.9 0
+;g40v2.b 0
+$#ab7b.9 0
+;g41v2.b 0
+$#ab7c.9 0
+;g42v2.b 0
+$#ab7d.9 0
+
+EndMap

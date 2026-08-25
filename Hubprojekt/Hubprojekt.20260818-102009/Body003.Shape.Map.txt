@@ -1,0 +1,512 @@
+BeginElementMap v1
+58 PostfixCount 192
+Edge
+Face
+Vertex
+;:M#5b5a;FUS;:H-632:c,E
+;:M#5d55;FUS;:H-632:c,E
+;:M#5b2a;FUS;:H-632:c,E
+;:M2#5d4a;FUS;:H-632:d,E
+;:M#5b29;FUS;:H-632:c,E
+;:M2#5b4c;FUS;:H-632:d,E
+;:M#5b78;FUS;:H-632:c,E
+;:M#5b7b;FUS;:H-632:c,E
+;:M#5b7d;FUS;:H-632:c,E
+;:M#5b7f;FUS;:H-632:c,E
+;:M#5b70;FUS;:H-632:c,E
+;:M#5b73;FUS;:H-632:c,E
+;:M#5b75;FUS;:H-632:c,E
+;:M#5b77;FUS;:H-632:c,E
+;:M#5b8c;FUS;:H-632:c,E
+;:M#5b8f;FUS;:H-632:c,E
+;:M#5b91;FUS;:H-632:c,E
+;:M#5b93;FUS;:H-632:c,E
+;:M#5b48;FUS;:H-632:c,E
+;:M#5b80;FUS;:H-632:c,E
+;:M#5b85;FUS;:H-632:c,E
+;:M#5b88;FUS;:H-632:c,E
+;:M#5b8b;FUS;:H-632:c,E
+;:M#5b25;FUS;:H-632:c,E
+;:M#5b23;FUS;:H-632:c,E
+;:M#5bd0;FUS;:H-632:c,V
+;:M#5da8;FUS;:H-632:c,V
+;:M#5bf5;FUS;:H-632:c,V
+;:M#5bf7;FUS;:H-632:c,V
+;:M#5bf9;FUS;:H-632:c,V
+;:M#5bfb;FUS;:H-632:c,V
+;:M#5da9;FUS;:H-632:c,V
+;:M#5d76;FUS;:H-632:c,V
+;:M#5c98;FUS;:H-632:c,V
+;:M#5c99;FUS;:H-632:c,V
+;:M#5c9a;FUS;:H-632:c,V
+;:M#5c9b;FUS;:H-632:c,V
+;:M#5be5;FUS;:H-632:c,V
+;:M#5c96;FUS;:H-632:c,V
+;:M#5dec;FUS;:H-632:c,V
+;:M#5bd8;FUS;:H-632:c,V
+;:M#5c9c;FUS;:H-632:c,V
+;:M#5c9d;FUS;:H-632:c,V
+;:M#5c9e;FUS;:H-632:c,V
+;:M#5c9f;FUS;:H-632:c,V
+;:M#5ba9;FUS;:H-632:c,F
+;:M#5bae;FUS;:H-632:c,F
+;:M#5d74;FUS;:H-632:c,F
+;:M#5ba5;FUS;:H-632:c,F
+;:M#5ba4;FUS;:H-632:c,F
+;:M#5bb3;FUS;:H-632:c,F
+;:M#5bb4;FUS;:H-632:c,F
+;:M#5bb5;FUS;:H-632:c,F
+;:M#5bb6;FUS;:H-632:c,F
+;:M#5baf;FUS;:H-632:c,F
+;:M#5bb0;FUS;:H-632:c,F
+;:M#5bb1;FUS;:H-632:c,F
+;:M#5bb2;FUS;:H-632:c,F
+;:M#5bbb;FUS;:H-632:c,F
+;:M#5bbc;FUS;:H-632:c,F
+;:M#5bbd;FUS;:H-632:c,F
+;:M#5bbe;FUS;:H-632:c,F
+;:M#5ba3;FUS;:H-632:c,F
+;:M#5bb7;FUS;:H-632:c,F
+;:M#5bb8;FUS;:H-632:c,F
+;:M#5bb9;FUS;:H-632:c,F
+;:M#5bba;FUS;:H-632:c,F
+;:M#5ba1;FUS;:H-632:c,F
+;:M#5b9d;FUS;:H-632:c,F
+;:M#5cc8;FUS;:H-632:c,E
+;:M#5cb7;FUS;:H-632:c,E
+;:M#5cb6;FUS;:H-632:c,E
+;:M#5cb5;FUS;:H-632:c,E
+;:M#5cbe;FUS;:H-632:c,E
+;:M#5cbf;FUS;:H-632:c,E
+;:M#5cc0;FUS;:H-632:c,E
+;:M#5cc1;FUS;:H-632:c,E
+;:M#5cb8;FUS;:H-632:c,E
+;:M#5cb9;FUS;:H-632:c,E
+;:M#5cba;FUS;:H-632:c,E
+;:M#5cbb;FUS;:H-632:c,E
+;:M#5cc9;FUS;:H-632:c,E
+;:M#5cca;FUS;:H-632:c,E
+;:M#5ccb;FUS;:H-632:c,E
+;:M#5ccc;FUS;:H-632:c,E
+;:M#5cc3;FUS;:H-632:c,E
+;:M#5cb4;FUS;:H-632:c,E
+;:M#5cb3;FUS;:H-632:c,E
+;:M#5cc2;FUS;:H-632:c,E
+;:M#5cc4;FUS;:H-632:c,E
+;:M#5cc5;FUS;:H-632:c,E
+;:M#5cc6;FUS;:H-632:c,E
+;:M#5cc7;FUS;:H-632:c,E
+;:M#5cb1;FUS;:H-632:c,E
+;:M#5cb2;FUS;:H-632:c,E
+;:M#5cbd;FUS;:H-632:c,E
+;:M#5cbc;FUS;:H-632:c,E
+;:M#5cb0;FUS;:H-632:c,E
+;:M#5caf;FUS;:H-632:c,E
+;:M#5cae;FUS;:H-632:c,E
+;:M#5cad;FUS;:H-632:c,E
+;:M#5cd0;FUS;:H-632:c,F
+;:M#5ccf;FUS;:H-632:c,F
+;:M#5cce;FUS;:H-632:c,F
+;:M#5ccd;FUS;:H-632:c,F
+;:M#5c8e;FUS;:H-632:c,E
+;:M#5da7;FUS;:H-632:c,E
+;:M#5b7a;FUS;:H-632:c,E
+;:M#5b79;FUS;:H-632:c,E
+;:M#5b7c;FUS;:H-632:c,E
+;:M#5b7e;FUS;:H-632:c,E
+;:M#5b36;FUS;:H-632:c,E
+;:M#5da6;FUS;:H-632:c,E
+;:M#5b72;FUS;:H-632:c,E
+;:M#5b71;FUS;:H-632:c,E
+;:M#5b74;FUS;:H-632:c,E
+;:M#5b76;FUS;:H-632:c,E
+;:M#5b4e;FUS;:H-632:c,E
+;:M#5b55;FUS;:H-632:c,E
+;:M#6336;FUS;:H-632:c,E
+;:M#5b50;FUS;:H-632:c,E
+;:M#5b8e;FUS;:H-632:c,E
+;:M#5b8d;FUS;:H-632:c,E
+;:M#5b90;FUS;:H-632:c,E
+;:M#5b92;FUS;:H-632:c,E
+;:M#5cd5;FUS;:H-632:c,V
+;:M#5cd6;FUS;:H-632:c,V
+;:M#5cd7;FUS;:H-632:c,V
+;:M#5cdf;FUS;:H-632:c,V
+;:M#5ce0;FUS;:H-632:c,V
+;:M#5ce1;FUS;:H-632:c,V
+;:M#5ce2;FUS;:H-632:c,V
+;:M#5ced;FUS;:H-632:c,V
+;:M#5cee;FUS;:H-632:c,V
+;:M#5cef;FUS;:H-632:c,V
+;:M#5cf0;FUS;:H-632:c,V
+;:M#5ce3;FUS;:H-632:c,V
+;:M#5ce4;FUS;:H-632:c,V
+;:M#5ce5;FUS;:H-632:c,V
+;:M#5ce6;FUS;:H-632:c,V
+;:M#5ce7;FUS;:H-632:c,V
+;:M#5cd2;FUS;:H-632:c,V
+;:M#5cd4;FUS;:H-632:c,V
+;:M#5cd3;FUS;:H-632:c,V
+;:M#5cd1;FUS;:H-632:c,V
+;:M#5cdc;FUS;:H-632:c,V
+;:M#5cde;FUS;:H-632:c,V
+;:M#5cdd;FUS;:H-632:c,V
+;:M#5cdb;FUS;:H-632:c,V
+;:M#5dab;FUS;:H-632:c,V
+;:M#5daa;FUS;:H-632:c,V
+;:M#5dac;FUS;:H-632:c,V
+;:M#5ddf;FUS;:H-632:c,V
+;:M#5dd2;FUS;:H-632:c,V
+;:M#5dd4;FUS;:H-632:c,V
+;:M#5ce8;FUS;:H-632:c,V
+;:M#5ce9;FUS;:H-632:c,V
+;:M#5cda;FUS;:H-632:c,V
+;:M#5cd8;FUS;:H-632:c,V
+;:M#5cd9;FUS;:H-632:c,V
+;:M#5cea;FUS;:H-632:c,V
+;:M#5ceb;FUS;:H-632:c,V
+;:M#5cec;FUS;:H-632:c,V
+;:H624,V
+;:H624,E
+;:H624,F
+;:M;FUS;:H624:7,E
+;:M#6335;FUS;:H-632:c,E
+;:M#5ddd;FUS;:H-632:c,E
+;:M#6338;FUS;:H-632:c,E
+;:M#6337;FUS;:H-632:c,E
+;:M#6339;FUS;:H-632:c,E
+;:M#5dde;FUS;:H-632:c,E
+;:M;FUS;:H624:7,F
+;:M;FUS;:H624:7,V
+;:M#5d92;RFI;:H-632:c,E
+;:M#5d94;RFI;:H-632:c,E
+;:M#5d96;RFI;:H-632:c,F
+;:M#5d98;RFI;:H-632:c,F
+;:M#5d9a;RFI;:H-632:c,F
+;:M#5d9c;RFI;:H-632:c,F
+;:M#5d9e;RFI;:H-632:c,F
+;:M#5da0;RFI;:H-632:c,F
+;:M#5da2;RFI;:H-632:c,F
+;:M#5da4;RFI;:H-632:c,F
+;:M#5dd5;RFI;:H-632:c,E
+;:M#5dd7;RFI;:H-632:c,E
+;:M#5de0;RFI;:H-632:c,E
+;:M#5ddb;RFI;:H-632:c,E
+
+MapCount 2
+
+ElementMap 1 59 3
+
+Edge
+
+ChildCount 0
+
+NameCount 131
+0
+$#5af9:1c.a8.59f3 0
+$#5af7:22.a8.4213 0
+$#5af7:23.a8.4213 0
+$#5af7:24.a8.4213 0
+$#5af7:26.a8.4213 0
+$#5af7:3.a8.4213 0
+$#5af7:1.a8.4213 0
+$#5af7:25.a8.4213 0
+$#5af7:18.a8.4213 0
+$#5af7:20.a8.4213 0
+$#5af7:21.a8.4213 0
+$#5afc:1e.a8.59fd 0
+$#5afd:22.a8.4218 0
+$#5afe:23.a8.4219 0
+$#5aff:25.a8.4216 0
+$#5b01:1.a8.425d 0
+$#5b02:24.a8.4217 0
+$#5b07.a8 0
+$#5d43:2.aa.5d30 0
+$#5b17:3.aa.421c 0
+$#5d44.aa 0
+$#5d45.aa 0
+$#5b17:1.aa.421c 0
+$#5b08:1.a8.5a12 0
+$#5afb:25.a8.4230 0
+$#5d47:1.aa.5a0b 0
+$#5b17:20.aa.421c 0
+$#5b18:20.aa.59f5 0
+$#5b0b:22.a8.4234 0
+$#5b03:22.a8.4235 0
+$#5b0b:23.a8.4234 0
+$#5b03:23.a8.4235 0
+$#5b0b:25.a8.4234 0
+$#5b03:25.a8.4235 0
+$#5b0c:1.a8.425f 0
+$#5b04:1.a8.4261.4264 0
+$#5b0b:24.a8.4234 0
+$#5b03:24.a8.4235 0
+$#5b1a:1c.aa.59ec 0
+$#3fdc:d.1c.4236.5b1f.5b23 0
+$#3fdc:8.1b.4236.5b1f.5b25 0
+$#3fdc:30.16.4236.5b1f.5b48 0
+$#5b28:1e.aa.5a0e 0
+$#3fdc:16.8.4236.5b1f.5b29 0
+$#3fdc:15.7.59f9.5b1d.5d4a 0
+$#3fdc:16.9.59f9.5b1d.5b4c 0
+$#5b2f:1e.aa.5a0d 0
+$#3fdc:15.6.4236.5b1f.5b2a 0
+$#3fdc:14.5.59f8.5b1b.5d55 0
+$#3fdc:13.4.59f8.5b1b.5b5a 0
+$#409c.6d.4226.5b3a.5c8e 0
+$#409d.6e.4237.5d50.5da7 0
+$#4040:8.62.3fdc.4001.421f.5b0d.5cb2 0
+$#4040:7.61.3fdc.4001.421f.5b0d.5cb1 0
+$#4040:9.63.3fdc.4001.421f.5b0d.5cbd 0
+$#4040:a.64.3fdc.4001.421f.5b0d.5cbc 0
+$#4040:1c.4d.3fdc.4001.421f.5b0d.5cbe 0
+$#4040:1d.4e.3fdc.4001.421f.5b0d.5cbf 0
+$#4040:1e.4f.3fdc.4001.421f.5b0d.5cc0 0
+$#4040:1f.50.3fdc.4001.421f.5b0d.5cc1 0
+$#40a5.73.421e.5b35.5b36 0
+$#40a6.74.4224.5d4b.5da6 0
+$#4040:d.67.3fdc.4001.421f.5b0d.5cae 0
+$#5b4b.ac.5d34.5dc1.5ddd 0
+$#5b47.ab.5db2.5de1.6335 0
+$#4040:30.5a.3fdc.4001.421f.5b0d.5cb4 0
+$#40b6.7c.5a5d.5b4f.5b50 0
+$#40b3.79.5a5c.5b4d.5b4e 0
+$#4040:16.4c.3fdc.4001.421f.5b0d.5cb5 0
+$#40b5.7b.5db3.5de3.6336 0
+$#4040:15.4b.3fdc.4001.421f.5b0d.5cb6 0
+$#4040:b.65.3fdc.4001.421f.5b0d.5cb0 0
+$#4040:c.66.3fdc.4001.421f.5b0d.5caf 0
+$#4040:e.68.3fdc.4001.421f.5b0d.5cad 0
+$#4040:21.51.3fdc.4001.421f.5b0d.5cb8 0
+$#4040:22.52.3fdc.4001.421f.5b0d.5cb9 0
+$#4040:23.53.3fdc.4001.421f.5b0d.5cba 0
+$#4040:24.54.3fdc.4001.421f.5b0d.5cbb 0
+$#4040:2f.59.3fdc.4001.421f.5b0d.5cc3 0
+$#4040:31.5b.3fdc.4001.421f.5b0d.5cb3 0
+$#4040:32.5c.3fdc.4001.421f.5b0d.5cc2 0
+$#4040:33.5d.3fdc.4001.421f.5b0d.5cc4 0
+$#4040:34.5e.3fdc.4001.421f.5b0d.5cc5 0
+$#4040:35.5f.3fdc.4001.421f.5b0d.5cc6 0
+$#4040:36.60.3fdc.4001.421f.5b0d.5cc7 0
+$#40b4.7a.5a5f.5b54.5b55 0
+$#4040:14.4a.3fdc.4001.421f.5b0d.5cb7 0
+$#4040:13.49.3fdc.4001.421f.5b0d.5cc8 0
+$#409f.6f.4240.5b65.5b7a 0
+$#40a0.70.4241.5b64.5b79 0
+$#3fdc:1c.a.4236.5b1f.5b78 0
+$#40a1.71.4242.5b66.5b7c 0
+$#3fdc:1d.b.4236.5b1f.5b7b 0
+$#40a2.72.4243.5b67.5b7e 0
+$#3fdc:1e.c.4236.5b1f.5b7d 0
+$#3fdc:1f.d.4236.5b1f.5b7f 0
+$#4040:26.55.3fdc.4001.421f.5b0d.5cc9 0
+$#4040:27.56.3fdc.4001.421f.5b0d.5cca 0
+$#4040:28.57.3fdc.4001.421f.5b0d.5ccb 0
+$#4040:29.58.3fdc.4001.421f.5b0d.5ccc 0
+$#40a7.75.4238.5b61.5b72 0
+$#40a8.76.4239.5b60.5b71 0
+$#3fdc:21.e.4236.5b1f.5b70 0
+$#40a9.77.423a.5b62.5b74 0
+$#3fdc:22.f.4236.5b1f.5b73 0
+$#40aa.78.423b.5b63.5b76 0
+$#3fdc:23.10.4236.5b1f.5b75 0
+$#3fdc:24.11.4236.5b1f.5b77 0
+$#5b84.ae.5db4.5de5.6337 0
+$#5b82.ad.5db5.5de7.6338 0
+$#3fdc:33.17.4236.5b1f.5b80 0
+$#5b87.af.5db6.5de9.6339 0
+$#3fdc:34.18.4236.5b1f.5b85 0
+$#5b8a.b0.5d39.5dcb.5dde 0
+$#3fdc:35.19.4236.5b1f.5b88 0
+$#3fdc:36.1a.4236.5b1f.5b8b 0
+$#40b7.7d.423c.5b6d.5b8e 0
+$#40b8.7e.423d.5b6c.5b8d 0
+$#3fdc:26.12.4236.5b1f.5b8c 0
+$#40b9.7f.423e.5b6e.5b90 0
+$#3fdc:27.13.4236.5b1f.5b8f 0
+$#40ba.80.423f.5b6f.5b92 0
+$#3fdc:28.14.4236.5b1f.5b91 0
+$#3fdc:29.15.4236.5b1f.5b93 0
+$#5dd6.bd 0
+$#5dd8.be 0
+$#5dda.bf.5de0 0
+$#5ddc.c0 0
+$#5d93.b3.5d33.5d48 0
+$#5d95.b4.5d31.5d46 0
+
+Face
+
+ChildCount 0
+
+NameCount 52
+0
+$#5b11:1.a9.4265 0
+$#5b94:3.b1.4249 0
+$#5b94:1.b1.4249 0
+$#5b0f:25.a9.4252 0
+$#5b94:20.b1.4249 0
+$#5b12:22.a9.4255 0
+$#5b12:23.a9.4255 0
+$#5b12:25.a9.4255 0
+$#5b14:1.a9.4264 0
+$#5b12:24.a9.4255 0
+$#5b98:1.b1.4261 0
+$#3fff:13.31.3fdc.5a1d.5b96.5ba9 0
+$#4001:8.47.3fdc.4256.5b9c.5ba1 0
+$#4042:7.6b.3fdc.3fff.4257.5b15.5cce 0
+$#4001:d.48.3fdc.4256.5b9c.5b9d 0
+$#4001:30.42.3fdc.4256.5b9c.5ba3 0
+$#4001:16.35.3fdc.4256.5b9c.5ba4 0
+$#4001:15.34.3fdc.4256.5b9c.5ba5 0
+$#4042:b.6c.3fdc.3fff.4257.5b15.5ccd 0
+$#4042:2f.6a.3fdc.3fff.4257.5b15.5ccf 0
+$#4001:14.33.3fdc.5a1e.5b9a.5d74 0
+$#4001:13.32.3fdc.5a1e.5b9a.5bae 0
+$#4001:1c.36.3fdc.4256.5b9c.5bb3 0
+$#4001:1d.37.3fdc.4256.5b9c.5bb4 0
+$#4001:1e.38.3fdc.4256.5b9c.5bb5 0
+$#4001:1f.39.3fdc.4256.5b9c.5bb6 0
+$#4042:13.69.3fdc.3fff.4257.5b15.5cd0 0
+$#4001:21.3a.3fdc.4256.5b9c.5baf 0
+$#4001:22.3b.3fdc.4256.5b9c.5bb0 0
+$#4001:23.3c.3fdc.4256.5b9c.5bb1 0
+$#4001:24.3d.3fdc.4256.5b9c.5bb2 0
+$#4001:33.43.3fdc.4256.5b9c.5bb7 0
+$#4001:34.44.3fdc.4256.5b9c.5bb8 0
+$#4001:35.45.3fdc.4256.5b9c.5bb9 0
+$#4001:36.46.3fdc.4256.5b9c.5bba 0
+$#5bc0:1.b1.425a 0
+$#4001:26.3e.3fdc.4256.5b9c.5bbb 0
+$#4001:27.3f.3fdc.4256.5b9c.5bbc 0
+$#4001:28.40.3fdc.4256.5b9c.5bbd 0
+$#4001:29.41.3fdc.4256.5b9c.5bbe 0
+$#5bbf:1.b1.4258 0
+$#5bc1:1.b1.4259 0
+$#5bc2:1.b1.425b 0
+$#5d97:7.b5.3fdc.3fdc.4001.4001.5d3a.5d63 0
+$#5d99:a.b6.3fdc.4001.4250.5d64 0
+$#5d9b:b.b7.3fdc.4001.424c.5d65 0
+$#5d9d:32.b8.3fdc.4001.5d3d.5d69 0
+$#5d9f:9.b9.3fdc.4001.5d3b.5d66 0
+$#5da1:c.ba.3fdc.4001.424a.5d67 0
+$#5da3:31.bb.3fdc.4001.5d3c.5d68 0
+$#5da5:2f.bc.3fdc.4001.5d3e.5d6a 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 86
+0
+$#5abc.a7 $#5abd.a7 0
+$#5ab7.a7 $#5ab8.a7 0
+$#5ac1.a7 $#5ac2.a7 0
+$#5ab9.a7 $#5aba.a7 0
+$#5ac3.a7 $#5ac4.a7 0
+$#5abe.a7 $#5abf.a7 0
+$#5ac5.a7 $#5ac6.a7 0
+$#5ac7.a7 $#5ac8.a7 0
+$#5ac9.a7 $#5aca.a7 0
+$#5acb.a7 $#5acc.a7 0
+$#5acd.a7 $#5ace.a7 0
+$#5acf.a7 $#5ad0.a7 0
+$#5ad1:22.a7.41d3 0
+$#5ad2:23.a7.41d4 0
+$#5ad3:25.a7.41d1 0
+$#5ad5:1.a7.4267 0
+$#5ad6:24.a7.41d2 0
+$#5ad8.a7 0
+$#3fe0.1e.5d24.5d77.5da8 0
+$#3fe8.23.41d5.5d79.5da9 0
+$#5a7d.9a.5d25.5d7b.5daa 0
+$#5abb:20.a7.3f9a.3faf.3fc5.5914.59be 0
+$#5bc3:1e.b2.3f9a.3faf.3fc5.5914.59b3 0
+$#5d7d:15.b2.5d26 0
+$#5ad9:22.a7.41ef 0
+$#5ad9:23.a7.41ef 0
+$#5ad9:25.a7.41ef 0
+$#5ada:1.a7.425f.4261 0
+$#5ad9:24.a7.41ef 0
+$#3fe9.24.41de.5d75.5d76 0
+$#3fdf.1d.41df.5bcf.5bd0 0
+$#5a7c.99.5d27.5d7e.5dab 0
+$#5bdb:16.b2.59cb 0
+$#3ff9.2c.5a3f.5bd7.5bd8 0
+$#3ff6.29.5a4f.5be4.5be5 0
+$#3ff8.2b.5dae.5deb.5dec 0
+$#3ff7.2a.5a51.5be6.5c96 0
+$#40bc.82.41e0.5ae0.5cd6 0
+$#40bd.83.41f9.5ae1.5cd7 0
+$#40bb.81.41e1.5adf.5cd5 0
+$#40e7.8c.41e8.5aeb.5ce3 0
+$#40e8.8d.41fa.5aec.5ce4 0
+$#40e9.8e.41fb.5aed.5ce5 0
+$#40ea.8f.41fc.5aee.5ce6 0
+$#40eb.90.41fd.5aef.5ce7 0
+$#40ee.93.41d8.5add.5cd3 0
+$#40ef.94.41dd.5adb.5cd1 0
+$#5a85:2f.a1.3fdc.4001.4040.5aa3.5ae2.5cda 0
+$#5a85:30.a2.3fdc.4001.4040.5aa3.5ae2.5cd8 0
+$#40f8.98.41d9.5ae3.5cdb 0
+$#40f5.95.41dc.5ae4.5cdc 0
+$#40f7.97.41da.5ae5.5cdd 0
+$#40ec.91.41db.5adc.5cd2 0
+$#40ed.92.41d7.5ade.5cd4 0
+$#40c7.84.41f1.5ae7.5cdf 0
+$#40c8.85.41f2.5ae8.5ce0 0
+$#40c9.86.41f3.5ae9.5ce1 0
+$#40ca.87.41f4.5aea.5ce2 0
+$#5a83:2f.9f.3fdc.4001.4040.5aa7.5af0.5ce8 0
+$#5a85:31.a3.3fdc.4001.4040.5aa3.5ae2.5cd9 0
+$#5a83:33.a0.3fdc.4001.4040.5aa7.5af0.5ce9 0
+$#5a85:33.a4.3fdc.4001.4040.5aa3.5ae2.5cea 0
+$#5a85:34.a5.3fdc.4001.4040.5aa3.5ae2.5ceb 0
+$#5a85:35.a6.3fdc.4001.4040.5aa3.5ae2.5cec 0
+$#40f6.96.41e6.5ae6.5cde 0
+$#3fe2.1f.420a.5bf4.5bf5 0
+$#3fe3.20.420b.5bf6.5bf7 0
+$#3fe4.21.420c.5bf8.5bf9 0
+$#3fe5.22.420d.5bfa.5bfb 0
+$#40d7.88.41f5.5af1.5ced 0
+$#40d8.89.41f6.5af2.5cee 0
+$#40d9.8a.41f7.5af3.5cef 0
+$#40da.8b.41f8.5af4.5cf0 0
+$#3fea.25.4202.5bec.5c98 0
+$#3feb.26.4203.5bee.5c99 0
+$#3fec.27.4204.5bf0.5c9a 0
+$#3fed.28.4205.5bf2.5c9b 0
+$#5a7f.9b.5aa8.5d82.5dac 0
+$#5a80.9c.5d29.5dcf.5ddf 0
+$#5a81.9d.5d2a.5dd1.5dd2 0
+$#5a82.9e.5d2b.5dd3.5dd4 0
+$#3ffa.2d.4206.5c04.5c9c 0
+$#3ffb.2e.4207.5c06.5c9d 0
+$#3ffc.2f.4208.5c08.5c9e 0
+$#3ffd.30.4209.5c0a.5c9f 0
+
+EndMap
+
+ElementMap 2 58 3
+
+Edge
+
+ChildCount 1
+1 0 130 1586 1 ;:H632,E 0
+
+NameCount 0
+
+Face
+
+ChildCount 1
+1 0 51 1586 1 ;:H632,F 0
+
+NameCount 0
+
+Vertex
+
+ChildCount 1
+1 0 85 1586 1 ;:H632,V 0
+
+NameCount 0
+
+EndMap

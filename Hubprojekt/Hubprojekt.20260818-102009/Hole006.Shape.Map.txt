@@ -1,0 +1,139 @@
+BeginElementMap v1
+80 PostfixCount 20
+Edge
+Face
+Vertex
+;:H5e2,E
+;:H5e2,V
+;:M;CUT;:H-63a:7,E
+;:M;CUT;:H-63a:7,V
+;:M;CUT;:H-63a:7,F
+;:G#ac17;CUT;:H-63a:c,V
+;:G#ac18;CUT;:H-63a:c,V
+;:G#ac16;CUT;:H-63a:c,V
+;:G#ac15;CUT;:H-63a:c,V
+;:G#ac12;CUT;:H-63a:c,E
+;:G#ac13;CUT;:H-63a:c,E
+;:G#ac11;CUT;:H-63a:c,E
+;:G#ac10;CUT;:H-63a:c,E
+;:H5e2,F
+;:M;CUT;:H5e2:7,F
+;SKT;:H638,E;:M2;MAK;:H638:8,F;:U2;MAK;:H638:8,E;:H-63a,E
+;SKT;:H638,E;:M2;MAK;:H638:8,F;:U2;MAK;:H638:8,E;:U;MAK;:H638:7,V;:H-63a,V
+
+MapCount 1
+
+ElementMap 1 80 3
+
+Edge
+
+ChildCount 0
+
+NameCount 45
+0
+$#112a7.4 0
+$#112a8.4 0
+$#b69:40.4 0
+$#b94:40.4.b69.b7e 0
+$#10ccc.4 0
+$#b69:3f.4 0
+$#b94:3f.4.b69.b7e 0
+$#107a9.4 0
+$#b69:3d.4 0
+$#b94:3d.4.b69.b7e 0
+$#b69:3c.4 0
+$#b69:35.4 0
+$#ac03:26.4.b69 0
+$#ac02:1d.4.b69 0
+$#b69:34.4 0
+$#60dd:e.10.b69.b7c.ac0f.ac10 0
+$#60dd:d.f.b69.b7c.ac0f.ac11 0
+$#60dd:b.d.b69.b7c.ac0f.ac12 0
+$#60dd:c.e.b69.b7c.ac0f.ac13 0
+$#b94:3c.4.b69.b7e 0
+$#b94:35.4.b69.b7e 0
+$#ac0a:26.4.b69.b69.b7e.b7e.b94 0
+$#ac09:1d.4.b69.b69.b69.b7e.b7e.b7e.b94 0
+$#b94:34.4.b69.b7e 0
+$#1177a:e.6 0
+$#1177a:d.6 0
+$#1177a:b.6 0
+$#1177a:c.6 0
+$#6f14.4 0
+$#1065a.4 0
+$#1065c.4 0
+$#1065b.4 0
+$#60db:e.6 0
+;g14.13 0
+$#60db:d.6 0
+;g13.13 0
+$#60db:b.6 0
+;g11.13 0
+$#60db:c.6 0
+;g12.13 0
+$#60c3:e.6 0
+$#60c3:d.6 0
+$#60c3:b.6 0
+$#60c3:c.6 0
+
+Face
+
+ChildCount 0
+
+NameCount 19
+0
+$#b7e:40.11.b69 0
+$#b7e:3f.11.b69 0
+$#b7e:3d.11.b69 0
+$#ac0f:1d.12.b69.b7c 0
+$#ac14:1d.12.b69.b7c.b97 0
+$#b7e:3c.11.b69 0
+$#b7e:35.11.b69 0
+$#ac0c:26.11.b69.b69.b7e 0
+$#ac0d:1d.11.b69.b69.b69.b7e 0
+$#b7e:34.11.b69 0
+$#60dd:e.8 0
+$#60dd:d.8 0
+$#60dd:b.8 0
+$#60dd:c.8 0
+$#60bf:e.8 0
+$#60bf:d.8 0
+$#60bf:b.8 0
+$#60bf:c.8 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 29
+0
+$#11042.5 $#11044.5 0
+$#5e48:3f.5.b69.b7e.b94 0
+$#11043.5 $#11045.5 0
+$#5e48:3d.5.b69.b7e.b94 0
+$#107a8.5 $#11046.5 0
+$#5e48:3c.5.b69.b7e.b94 0
+$#abfb.5 $#10cc5.5 0
+$#5e48:35.5.b69.b7e.b94 0
+$#6d8e.5 $#107a7.5 0
+$#abee.5 $#abfc.5 0
+$#abf0.5 $#abfe.5 0
+$#abef.5 $#abfd.5 0
+$#60db:e.c.b69.b7c.ac0f.ac15 0
+$#60db:d.b.b69.b7c.ac0f.ac16 0
+$#60db:b.9.b69.b7c.ac0f.ac17 0
+$#60db:c.a.b69.b7c.ac0f.ac18 0
+$#5e48:26.5.b69.b7e.b94 0
+$#5e47:30.5.b69.b7e.b94 0
+$#5e47:32.5.b69.b7e.b94 0
+$#5e47:33.5.b69.b7e.b94 0
+$#1177c:e.7 0
+$#1177c:d.7 0
+$#1177c:b.7 0
+$#1177c:c.7 0
+;g14.14 0
+;g13.14 0
+;g11.14 0
+;g12.14 0
+
+EndMap

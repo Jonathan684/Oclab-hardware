@@ -1,0 +1,67 @@
+BeginElementMap v1
+90 PostfixCount 12
+Edge
+Face
+Vertex
+;:G;XTR;:H649:7,E
+;:G;XTR;:H649:7,F
+;FAC;:H649:4,F
+;:G0;XTR;:H649:8,F
+;:U;XTR;:H649:7,E
+;:U2;XTR;:H649:8,V
+;:U;XTR;:H649:7,V
+;SKT;:H649,E
+;SKT;:H649,V
+
+MapCount 1
+
+ElementMap 1 90 3
+
+Edge
+
+ChildCount 0
+
+NameCount 13
+0
+$#11716:1.4 0
+$#11717:2.4 0
+;g32.b 0
+$#66a2:20.8.6699 0
+$#11718:1.4 0
+;g33.b 0
+$#66a2:21.8.6699 0
+$#11719:1.4 0
+;g18.b 0
+$#66a2:12.8.6699 0
+;g31.b 0
+$#66a2:1f.8.6699 0
+
+Face
+
+ChildCount 0
+
+NameCount 7
+0
+$#6699:20.5 0
+$#6699:21.5 0
+$#6699:12.5 0
+$#6699:1f.5 0
+$#6699:12.6 0
+$#66a0:12.7.6699 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 9
+0
+;g32v1.c 0
+$#66ae:1f.9.6699.66a2 0
+;g32v2.c 0
+$#66ae:20.9.6699.66a2 0
+;g33v1.c 0
+$#66ae:12.9.6699.66a2 0
+;g31v1.c 0
+$#66ae:12.a.6699.66a2 0
+
+EndMap

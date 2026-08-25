@@ -1,0 +1,92 @@
+BeginElementMap v1
+48 PostfixCount 11
+Edge
+Face
+Vertex
+;:G;XTR;:H609:7,F
+;FAC;:H609:4,F
+;:G;XTR;:H609:7,E
+;:G0;XTR;:H609:8,F
+;:U;XTR;:H609:7,E
+;:U;XTR;:H609:7,V
+;SKT;:H609,E
+;SKT;:H609,V
+
+MapCount 1
+
+ElementMap 1 48 3
+
+Edge
+
+ChildCount 0
+
+NameCount 25
+0
+$#1f94.6 0
+$#1f95.6 0
+;g7.a 0
+$#1f9f:7.8 0
+$#1f96.6 0
+;g8.a 0
+$#1f9f:8.8.1f92 0
+$#1f97.6 0
+;g9.a 0
+$#1f9f:9.8.1f92 0
+;g10.a 0
+$#1f9f:a.8.1f92 0
+$#1f98.6 0
+$#1f99.6 0
+;g12.a 0
+$#1f9f:c.8.1f92 0
+$#1f9a.6 0
+;g13.a 0
+$#1f9f:d.8.1f92 0
+$#1f9b.6 0
+;g14.a 0
+$#1f9f:e.8.1f92 0
+;g15.a 0
+$#1f9f:f.8.1f92 0
+
+Face
+
+ChildCount 0
+
+NameCount 13
+0
+$#1f92:7.4 0
+$#1f92:8.4 0
+$#1f92:9.4 0
+$#1f92:a.4 0
+$#1f92:7.5 0
+$#1f9d:7.7 0
+$#1f92:c.4 0
+$#1f92:d.4 0
+$#1f92:e.4 0
+$#1f92:f.4 0
+$#1f92:c.5 0
+$#1f9d:c.7.1f92 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 17
+0
+;g7v1.b 0
+$#2009.9 0
+;g7v2.b 0
+$#200a.9 0
+;g8v2.b 0
+$#200b.9 0
+;g9v2.b 0
+$#200c.9 0
+;g12v1.b 0
+$#200d.9 0
+;g12v2.b 0
+$#200e.9 0
+;g13v2.b 0
+$#200f.9 0
+;g14v2.b 0
+$#2010.9 0
+
+EndMap

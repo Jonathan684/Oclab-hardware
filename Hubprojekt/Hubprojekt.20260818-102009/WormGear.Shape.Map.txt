@@ -1,0 +1,111 @@
+BeginElementMap v1
+1 PostfixCount 31
+Edge
+Face
+Vertex
+;SHL
+;SHL;D11dc
+;SHL;D165f
+;SHL;D2692
+;SHL;D17f9
+;SHL;D26bf
+;SHL;D26e9
+;SHL;D2002
+;SHL;D40f
+;SHL;De56
+;SHL;D1294
+;SHL;D1c2b
+;SHL;D60a
+;SHL;D1ffc
+;SHL;D2041
+;SHL;D2353
+;SHL;D1645
+;SHL;D2652
+;SHL;D27b
+;SHL;D14a2
+;SHL;D6bf
+;SHL;Dee5
+;SHL;D14e5
+;SHL;D1f99
+;SHL;D2dd
+;SHL;D22ef
+;SHL;D24aa
+;SHL;D2fd
+
+MapCount 2
+
+ElementMap 1 2 3
+
+Edge
+
+ChildCount 0
+
+NameCount 13
+0
+:1.1.4 :1.3.d 0
+:1.2.4 0
+:1.3.4 :1.1.5 0
+:1.4.4 0
+:1.2.a 0
+:1.3.c :1.1.7 0
+:1.4.e 0
+:1.2.8 0
+:1.3.b :1.1.6 0
+:1.4.10 0
+:1.2.9 0
+:1.4.f 0
+
+Face
+
+ChildCount 0
+
+NameCount 7
+0
+:2.1.4 0
+:2.1.13 0
+:2.1.12 0
+:2.1.11 0
+:2.5.0 0
+:2.6.0 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 9
+0
+:3.1.4 :3.3.1b 0
+:3.2.4 :3.4.1f 0
+:3.3.4 :3.1.14 0
+:3.4.4 :3.2.17 0
+:3.3.1a :3.1.15 0
+:3.4.1d :3.2.18 0
+:3.3.1c :3.1.16 0
+:3.4.1e :3.2.19 0
+
+EndMap
+
+ElementMap 2 1 3
+
+Edge
+
+ChildCount 1
+1 0 12 0 1 ;:H,E 0
+
+NameCount 0
+
+Face
+
+ChildCount 1
+1 0 6 0 1 ;:H,F 0
+
+NameCount 0
+
+Vertex
+
+ChildCount 1
+1 0 8 0 1 ;:H,V 0
+
+NameCount 0
+
+EndMap

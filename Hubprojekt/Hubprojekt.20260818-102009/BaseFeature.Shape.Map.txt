@@ -1,0 +1,146 @@
+BeginElementMap v1
+9 PostfixCount 42
+Edge
+Face
+Vertex
+;:U2;FUS;:H5bf:8,V;:H5ca,V
+;:U;FUS;:H5bf:7,V;:H5ca,V
+;:H5c1,V;:M;CUT;:H5ca:7,V
+;:H5c1,E;:G#3c8;CUT;:H5ca:b,V
+;:H5c1,E;:M;CUT;:H5ca:7,E
+;:H5c1,E;:G#3c9;CUT;:H5ca:b,V
+;:H5c1,F;:M;CUT;:H5ca:7,F
+;:M;FUS;:H5c1:7,E;:M;CUT;:H5ca:7,E
+;:M2;FUS;:H5c1:8,E;:M;CUT;:H5ca:7,E
+;:M;FUS;:H5c1:7,F;:M;CUT;:H5ca:7,F
+;:G#a152;FUS;:H5bf:c,V;:H5ca,V
+;:H5c0,E
+;:M2;FUS;:H5bf:8,E;:H5ca,E
+;:M3;FUS;:H5bf:8,E;:H5ca,E
+;:M4;FUS;:H5bf:8,E;:H5ca,E
+;:G#a150;FUS;:H5bf:c,V;:M;CUT;:H5ca:7,V
+;:G2#a14f;FUS;:H5bf:d,V;:M;CUT;:H5ca:7,V
+;:M2;FUS;:H5bf:8,E;:M;CUT;:H5ca:7,E
+;:G16#a12f;FUS;:H5bf:e,E;:M;CUT;:H5ca:7,E
+;:G17#a140;FUS;:H5bf:e,E;:H5ca,E
+;:G18#a13f;FUS;:H5bf:e,E;:H5ca,E
+;:G19#a13e;FUS;:H5bf:e,E;:G#3ca;CUT;:H5ca:b,V
+;:G19#a13e;FUS;:H5bf:e,E;:M;CUT;:H5ca:7,E
+;:G3#a132;FUS;:H5bf:d,E;:M;CUT;:H5ca:7,E
+;:G4#a141;FUS;:H5bf:d,E;:H5ca,E
+;:G5#a142;FUS;:H5bf:d,E;:H5ca,E
+;:G6#a143;FUS;:H5bf:d,E;:G#3c7;CUT;:H5ca:b,V
+;:G6#a143;FUS;:H5bf:d,E;:M;CUT;:H5ca:7,E
+;:H5c0,F
+;:M10;FUS;:H5bf:9,F;:M;CUT;:H5ca:7,F
+;:M11;FUS;:H5bf:9,F;:H5ca,F
+;:M12;FUS;:H5bf:9,F;:H5ca,F
+;:M13;FUS;:H5bf:9,F;:M;CUT;:H5ca:7,F
+;:M;CUT;:H5c0:7,F
+;:G5#a155;CUT;:H5c0:d,E
+;:G6#a154;CUT;:H5c0:d,E
+;:G7#a153;CUT;:H5c0:d,E
+;:G8#3774;CUT;:H5c0:d,E
+;:H5c0,V
+
+MapCount 2
+
+ElementMap 1 10 3
+
+Edge
+
+ChildCount 0
+
+NameCount 25
+0
+:1.1.f 0
+:1.2.f 0
+:1.3.f 0
+:1.2.15 0
+$#a12c:2.c 0
+$#a120:2.8 0
+$#a12a:2.b 0
+:2.3.29.3774 0
+:2.3.28.a131.a153 0
+:2.3.27.a128.a154 0
+:2.3.26.a12e.a155 0
+:2.1.16.a12e.a12f 0
+:2.1.1b.a131.a132 0
+:1.1.10 0
+:2.1.1c.a131.a141 0
+:2.1.1d.a131.a142 0
+:2.1.1f.a131.a143 0
+$#a11c:3.8 0
+$#a122:3.8 0
+:2.1.1a.a12e.a13e 0
+:2.1.18.a12e.a13f 0
+:2.1.17.a12e.a140 0
+:1.1.12 0
+:1.1.11 0
+
+Face
+
+ChildCount 0
+
+NameCount 11
+0
+:2.1.20 0
+:2.2.25 0
+:2.3.25 0
+:2.1.24 0
+$#a131:1.d 0
+$#a128:1.a 0
+$#a12e:1.d 0
+:2.1.21 0
+:2.1.23 0
+:2.1.22 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 17
+0
+:3.1.2a 0
+:3.2.2a 0
+:1.2.14.a12a.a14f 0
+:1.2.13.a12c.a150 0
+$#a10c:3.6 0
+$#a114:3.6 0
+:2.1.1e.3c7.a131.a143 0
+:2.1.19.3ca.a12e.a13e 0
+$#a11c:3.7.3c8 0
+$#a122:3.9.3c9 0
+$#416:1.4 0
+$#416:1.5 0
+$#422:1.5 0
+:1.1.e.a131.a152 0
+$#420:1.5 0
+$#422:1.4 0
+
+EndMap
+
+ElementMap 2 9 3
+
+Edge
+
+ChildCount 1
+1 0 24 1483 1 ;:H5cb,E 0
+
+NameCount 0
+
+Face
+
+ChildCount 1
+1 0 10 1483 1 ;:H5cb,F 0
+
+NameCount 0
+
+Vertex
+
+ChildCount 1
+1 0 16 1483 1 ;:H5cb,V 0
+
+NameCount 0
+
+EndMap

@@ -1,0 +1,113 @@
+BeginElementMap v1
+55 PostfixCount 25
+Edge
+Face
+Vertex
+;SKT;:H612,E;:M2;MAK;:H612:8,F
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U2;MAK;:H612:8,E
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:U;MAK;:H612:7,V
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U3;MAK;:H612:8,E
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U3;MAK;:H612:8,E;:U;MAK;:H612:7,V
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U;MAK;:H612:7,E
+;SKT;:H612,E;:M3;MAK;:H612:8,F
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U2;MAK;:H612:8,E
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:U;MAK;:H612:7,V
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U3;MAK;:H612:8,E
+;SKT;:H612,E;:M;MAK;:H612:7,F
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:H-613,F
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:U;MAK;:H612:7,V;:H-613,V
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U3;MAK;:H612:8,E;:U;MAK;:H612:7,V;:H-613,V
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:H-613,F
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:U;MAK;:H612:7,V;:H-613,V
+;SKT;:H612,E;:M;MAK;:H612:7,F;:H-613,F
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:H-613,E
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U3;MAK;:H612:8,E;:H-613,E
+;SKT;:H612,E;:M2;MAK;:H612:8,F;:U;MAK;:H612:7,E;:H-613,E
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U2;MAK;:H612:8,E;:H-613,E
+;SKT;:H612,E;:M3;MAK;:H612:8,F;:U3;MAK;:H612:8,E;:H-613,E
+
+MapCount 2
+
+ElementMap 1 56 3
+
+Edge
+
+ChildCount 0
+
+NameCount 6
+0
+;g12.9 0
+;g12.5 0
+;g12.7 0
+;g12.b 0
+;g12.d 0
+
+Face
+
+ChildCount 0
+
+NameCount 4
+0
+;g12.e 0
+;g12.4 0
+;g12.a 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 4
+0
+;g12.8 0
+;g12.6 0
+;g12.c 0
+
+EndMap
+
+ElementMap 2 55 3
+
+Edge
+
+ChildCount 1
+1 0 5 -1555 1 ;:H-613,E 0
+
+NameCount 11
+0
+0
+0
+0
+0
+0
+;g13.17 0
+;g13.15 0
+;g13.16 0
+;g13.18 0
+;g13.19 0
+
+Face
+
+ChildCount 0
+
+NameCount 7
+0
+;g12.14 0
+;g12.f 0
+;g12.12 0
+;g13.14 0
+;g13.f 0
+;g13.12 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 7
+0
+;g12.11 0
+;g12.10 0
+;g12.13 0
+;g13.11 0
+;g13.10 0
+;g13.13 0
+
+EndMap
