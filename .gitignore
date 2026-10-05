@@ -1,0 +1,7 @@
+# Ignorar extensiones específicas solo en la raíz
+/*.stl
+/*.bgcode
+/*.FCStd
+/*.docx
+/*.odt
+/*.pdf
