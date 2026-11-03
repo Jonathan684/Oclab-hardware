@@ -5,3 +5,27 @@
 /*.docx
 /*.odt
 /*.pdf
+
+
+.image-container {
+  position: relative;
+  display: inline-block;
+  line-height: 0; /* Solución A: Elimina el espacio de línea tipográfica */
+}
+
+/* Fuerza a que la imagen dicte el tamaño real del contenedor */
+.image-container img {
+  display: block; 
+  max-width: 100%;
+  height: auto;
+}
+
+/* Si el canvas debe ir encima de la imagen (por ejemplo, para filtros o dibujos) */
+.image-container canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* Evita que bloquee los clics si necesitas interactuar con la imagen */
+}
