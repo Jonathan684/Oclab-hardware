@@ -5,7 +5,7 @@
 /*.docx
 /*.odt
 /*.pdf
-
+/*.FCBak
 
 .image-container {
   position: relative;
